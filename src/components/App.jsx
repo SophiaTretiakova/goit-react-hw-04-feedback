@@ -1,4 +1,4 @@
-import { Component, useState } from 'react';
+import { useState } from 'react';
 import { FeedbackBtns } from './Feedback/FeedbackBtns';
 import { Statistics } from './Statistics/Statistics';
 import { Notification } from './Notification/Notification';
